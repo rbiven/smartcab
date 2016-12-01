@@ -21,4 +21,5 @@ In a terminal or command window, navigate to the top-level project directory `sm
 This will run the `agent.py` file and execute your agent code.
 
 
-The above README.md and all associated files are from the Udacity Machine Learning Nanodegree course.  I am submitting this to my Github for practice and community review.  If you are interested in learning more about Reinforcement Learning or Machine Learning, I highly recommend the Machine Learning Nanodegree by Udacity.
+# From Rbiven
+The above is from the Udacity Machine Learning nanodegree course.  I am putting my results on Github for peer review.  If you are interesting in my work, I highly recommend the Udacity Nanodegree course.
